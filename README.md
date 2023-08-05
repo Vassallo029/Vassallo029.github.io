@@ -1,4 +1,5 @@
-# Astro Starter Kit: Blog
+#how this work
+
 
 ```
 npm create astro@latest -- --template blog
